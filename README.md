@@ -1,1 +1,3 @@
-# clean-code-app
+💻📱
+# Let's Talk app with clean Code 
+## Fire Base
